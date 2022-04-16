@@ -6,5 +6,6 @@ root = 7 ve tree şu şekilde oluşturulabilir;
 
                    7
            5                8
-      1         6       3       9
-   0     2    4       
+      1         6               9
+   0     3           
+       2   4 
